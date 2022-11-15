@@ -60,11 +60,11 @@ header > h3 > a{
 main {
     background-color: white;
     margin: 13% 20% 20% 20%;
+    border-top: 10;
 }
 main > h1{
     font-family: 'Audiowide', cursive;
     color: rgb(48, 193, 48);
-    padding-top: 4em;
 }
 main > h2{
     font-family: 'Audiowide', cursive;
