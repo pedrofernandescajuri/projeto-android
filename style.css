@@ -24,6 +24,7 @@ body > footer > p {
 header {
     background-image: linear-gradient(to top, #417a5c, #7bd52b);
     padding: 2%;
+    box-shadow: 1px 0px 12px 0px rgba(0, 0, 0, 0.432);
     position: absolute;
     top: 0px;
     right: 0px;
